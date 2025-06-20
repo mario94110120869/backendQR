@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno
+.env
+.env.test
+.env.template
+
+# Configuraciones y caches
+.medusa/
+.claude/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
